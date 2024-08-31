@@ -1,0 +1,2912 @@
+[
+  {
+    "name": "Jimbu Thakali Thali (Chicken)",
+    "price": "Rs. 565",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/8fBkqNbVqHf6dmfdCmQ0.jpg"
+  },
+  {
+    "name": "Jimbu Thakali Thali (Mutton)",
+    "price": "Rs. 725",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/t0WstEstREFiY7Dg4qxm.jpg"
+  },
+  {
+    "name": "Jimbu Thakali Thali (Fish)",
+    "price": "Rs. 610",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/kAgdnvEgGaxYiUvXHdU0.jpg"
+  },
+  {
+    "name": "Jimbu Thakali Thali (Veg.)",
+    "price": "Rs. 535",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/WZQqlD9hRZvi1W95dWEG.jpg"
+  },
+  {
+    "name": "Dhido Thali (Chicken)",
+    "price": "Rs. 610",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/TMtohSiJKxYZ1i2yTYTU.jpg"
+  },
+  {
+    "name": "Dhido Thali (Mutton)",
+    "price": "Rs. 780",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cCfBNaOikkHR79S4x6di.jpg"
+  },
+  {
+    "name": "Dhido Thali (Fish)",
+    "price": "Rs. 680",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/VWKR6Kbv3EVoL6eOHnHw.jpg"
+  },
+  {
+    "name": "Dhido Thali (Veg.)",
+    "price": "Rs. 560",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/gbaJhBghFCugmvUNa9T4.jpg"
+  },
+  {
+    "name": "Side of Chicken",
+    "price": "Rs. 250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/vGbKJgMviAjlNuTCr3hU.jpg"
+  },
+  {
+    "name": "Side of Mutton",
+    "price": "Rs. 380",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/pQtvKlEyqbBUmMUdUXYe.jpg"
+  },
+  {
+    "name": "Side of Fish",
+    "price": "Rs. 310",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/FENZNgl40ZDMIel9rLYt.jpg"
+  },
+  {
+    "name": "Side of Omelette",
+    "price": "Rs. 195",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/eeeowVQRltOgUFTBN4Af.jpg"
+  },
+  {
+    "name": "Bhutan (Goes well with all the non-veg....",
+    "price": "Rs. 330",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/YzjSYZ5Cje4r3y4SL3xW.jpg"
+  },
+  {
+    "name": "Egg Curry",
+    "price": "Rs. 230",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/O3rL7zRUtwD3eGGGAwaS.jpg"
+  },
+  {
+    "name": "Ghoken (Thakali buckwheat pan cake 2 pcs...",
+    "price": "Rs. 165",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cNMcVPnbzMlO5axairuM.jpg"
+  },
+  {
+    "name": "Jimbu Special Whole Local Chicken (Expec...",
+    "price": "Rs. 6800",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/BMp17etUa6iijMDSY1RT.jpg"
+  },
+  {
+    "name": "Trout Jhol",
+    "price": "Rs. 980",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/OP4ApLS4oEeMFhfL5HkB.jpg"
+  },
+  {
+    "name": "Jimbu Special Cheli Jwai Thali",
+    "price": "Rs. 995",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ru6QmdxufMQmqKDl6aDV.jpg"
+  },
+  {
+    "name": "Jimbu Gourmet Mutton Momo",
+    "price": "Rs. 550",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/epNlAD0wFnVg1lsbH6uv.jpg"
+  },
+  {
+    "name": "Chicken Momo",
+    "price": "Rs. 365",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/RK9W2AqaHwumgXYtnB65.jpg"
+  },
+  {
+    "name": "Jimbu Gourmet Veg. Momo",
+    "price": "Rs. 330",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/3Y0JdH3niqcYxlbS8O2t.jpg"
+  },
+  {
+    "name": "Jhol Mutton Momo",
+    "price": "Rs. 595",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/jo0np9EujbeUfSzGSOve.jpg"
+  },
+  {
+    "name": "Jhol Chicken Momo",
+    "price": "Rs. 395",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ZYrxlhrAkHxQONdauXPO.jpg"
+  },
+  {
+    "name": "Veg. Jhol Momo",
+    "price": "Rs. 390",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/MAqf8lO8AqWFxWq4Owbt.jpg"
+  },
+  {
+    "name": "Thakali Chicken Thukpa (Ghetto)",
+    "price": "Rs. 495",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/zVVQFrEpPM8Ozcmjb2Zv.jpg"
+  },
+  {
+    "name": "Thakali Mutton Thukpa (Ghetto)",
+    "price": "Rs. 595",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/7ePcIpXoI8FV72gZuTV7.jpg"
+  },
+  {
+    "name": "Aaloo Sadeko",
+    "price": "Rs. 300",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/XuNe05y6eH4qIrQ44wYi.jpg"
+  },
+  {
+    "name": "Kanchymba",
+    "price": "Rs. 340",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ipRvVR5MZQMmQn9sbcci.jpg"
+  },
+  {
+    "name": "Mutton Sukuti",
+    "price": "Rs. 795",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/pHC3OfHK7gf93vgNCBmR.jpg"
+  },
+  {
+    "name": "Mutton Sukuti Sandeko",
+    "price": "Rs. 865",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/O8ENJgw80hm31V7xMeik.jpg"
+  },
+  {
+    "name": "Dhung (Thakali Rakti)",
+    "price": "Rs. 495",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/kRAUL9Q4Ic8BXMDW2vnP.jpg"
+  },
+  {
+    "name": "Mutton Farsi",
+    "price": "Rs. 845",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cfas73tobMgfYuCGraJe.jpg"
+  },
+  {
+    "name": "Aloo Jimbu Sukuti (Expected time 15 minu...",
+    "price": "Rs. 975",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/4V1KRX9xlpwUJz42s3zL.jpg"
+  },
+  {
+    "name": "Fried Fish",
+    "price": "Rs. 895",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Rk3oyUW2GHPgsydXNFmK.jpg"
+  },
+  {
+    "name": "Mutton Sekuwa",
+    "price": "Rs. 875",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/BMpD8gVjwEiEONS3hbRa.jpg"
+  },
+  {
+    "name": "Faro Thakali Soup (Veg.)",
+    "price": "Rs. 375",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/rrHQH408cOYu1M8oLoXG.jpg"
+  },
+  {
+    "name": "Pangra Fried",
+    "price": "Rs. 360",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/uVDVJAjhBhZBt6bOz6jl.jpg"
+  },
+  {
+    "name": "Mushroom Choila",
+    "price": "Rs. 425",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Qjmy2kzBpS1uZPeQqHMw.jpg"
+  },
+  {
+    "name": "Faro Thakali Soup (Chicken)",
+    "price": "Rs. 475",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/9VveOc7Ux5xro9jgGv4K.jpg"
+  },
+  {
+    "name": "Chicken Sekuwa",
+    "price": "Rs. 495",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Wnnh1yrL06bgBKmhYzYH.jpg"
+  },
+  {
+    "name": "Bhutan",
+    "price": "Rs. 330",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/yQx0tG6egAah3B8OSWkK.jpg"
+  },
+  {
+    "name": "Masala Peanuts",
+    "price": "Rs. 240",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/B3Dtz008VnkSeEcwlNlW.jpg"
+  },
+  {
+    "name": "Thakali Mutton Kabab",
+    "price": "Rs. 795",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/qAaOV6LJdtlWB5uy1R9X.jpg"
+  },
+  {
+    "name": "Wood Fire Choila Wings",
+    "price": "Rs. 655",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Uej7pdwImSdZJpTo9Eec.jpg"
+  },
+  {
+    "name": "Kanchymba Chilli",
+    "price": "Rs. 400",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/8b4qy3S1RZz2DRyWjNUH.jpg"
+  },
+  {
+    "name": "Basket Fish Fried",
+    "price": "Rs. 895",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/njzC1GZeN6RMk4QL6Sca.jpg"
+  },
+  {
+    "name": "Masala Papad",
+    "price": "Rs. 250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cp9Ldy7WCqiMoj1OAS9Y.jpg"
+  },
+  {
+    "name": "French Fries",
+    "price": "Rs. 335",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/TCb38AqtxtKJcHQHKBir.jpg"
+  },
+  {
+    "name": "Bhutan Chatpata",
+    "price": "Rs. 350",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2024/GYKQ0h5s8rqMksMeI9vS.jpg"
+  },
+  {
+    "name": "Timmur Chicken",
+    "price": "Rs. 495",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2024/jXbwk0ecEQBfSbujLuND.jpg"
+  },
+  {
+    "name": "Caesar Salad (VEG)",
+    "price": "Rs. 275",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/TZJDN3DA1KUyJavTlDUE.jpg"
+  },
+  {
+    "name": "Blue Cheese Grilled Chicken Salad",
+    "price": "Rs. 480",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/NRSL46qlfXnAacAq7skU.jpg"
+  },
+  {
+    "name": "Caesar Salad (Chicken)",
+    "price": "Rs. 435",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/WVrSSUtwVYyzn5YMGVa0.jpg"
+  },
+  {
+    "name": "Green Salad",
+    "price": "Rs. 345",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/lTjlSl89sd9za0T1abTT.jpg"
+  },
+  {
+    "name": "Cream of Velouté Soup (Chicken)",
+    "price": "Rs. 410",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/pEQIuCKMpWUyt5pjKVYz.jpg"
+  },
+  {
+    "name": "Cream of Velouté Soup (Veg.)",
+    "price": "Rs. 310",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/h7shmkDmcYVWhhRoHy5D.jpg"
+  },
+  {
+    "name": "Al Pollo",
+    "price": "Rs. 970",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/FlogXW6PKT51ia4qauga.jpg"
+  },
+  {
+    "name": "Hawaiian Pizza",
+    "price": "Rs. 995",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/a7cdHA8LceKTyej5Fb6d.jpg"
+  },
+  {
+    "name": "Fungi (Mushroom) Pizza",
+    "price": "Rs. 780",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/0fJ9hVZm5YB0QiOzHyUt.jpg"
+  },
+  {
+    "name": "Pepperoni Pizza (Type of salami)",
+    "price": "Rs. 960",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/daVsLde9xGEq61aM2adG.jpg"
+  },
+  {
+    "name": "Mixed Veg. Pizza",
+    "price": "Rs. 835",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/2vVEX6rbePl73DIHj7US.jpg"
+  },
+  {
+    "name": "4 Cheese Pizza",
+    "price": "Rs. 835",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/oo83dcnkYMhWeoRz7g6x.jpg"
+  },
+  {
+    "name": "Margherita Pizza (Tomato Slices)",
+    "price": "Rs. 780",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/TDypZx63o41NWCO7WCvt.jpg"
+  },
+  {
+    "name": "Mexican Pizza",
+    "price": "Rs. 995",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/78Hp77hfaHuY1KWSswDL.jpg"
+  },
+  {
+    "name": "Mushroom Choila Pizza",
+    "price": "Rs. 780",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/VGIzBTD598mE9hc1y2R8.jpg"
+  },
+  {
+    "name": "Chicken Choila Pizza",
+    "price": "Rs. 890",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/DCYzyRlflvy82kCMUUhD.jpg"
+  },
+  {
+    "name": "Spaghetti Bolognese (Spaghetti, red meat...",
+    "price": "Rs. 465",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/46N3mS3BEWa7DpSY4ddu.jpg"
+  },
+  {
+    "name": "Tagliatelle Alfredo (Mushroom, creamy al...",
+    "price": "Rs. 465",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/QM98HbDsXdrhLzrDlFCF.jpg"
+  },
+  {
+    "name": "Chicken Lasagna",
+    "price": "Rs. 605",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Jl3WtOoPPwZ3rrykGlTX.jpg"
+  },
+  {
+    "name": "Penne Arrabiata (Add Chicken - Rs. 125)",
+    "price": "Rs. 465",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/DQQ2mEPNJKuEZ9OaTLV9.jpg"
+  },
+  {
+    "name": "Spaghetti Carbonara",
+    "price": "Rs. 465",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/GibMHMJjlCtFaKJt80W0.jpg"
+  },
+  {
+    "name": "Capital Grill Chicken Burger",
+    "price": "Rs. 600",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/UIlHPUbkMuTH2qKfNLTq.jpg"
+  },
+  {
+    "name": "Capital Grill Veggie Burger",
+    "price": "Rs. 520",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/6lLcjapAm4H1c14h6Xmc.jpg"
+  },
+  {
+    "name": "Veg. Club Sandwich",
+    "price": "Rs. 485",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/2pTXMxMn1ncUxe1OKwd9.jpg"
+  },
+  {
+    "name": "Monte Cristo Sandwich",
+    "price": "Rs. 680",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/rdZMo1n0LWH6y8cEiLqD.jpg"
+  },
+  {
+    "name": "Non-veg. Club Sandwich",
+    "price": "Rs. 600",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/RX106ULGQskrU8XBYj1S.jpg"
+  },
+  {
+    "name": "Buffalo Chicken Philly Sandwich",
+    "price": "Rs. 675",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/PtqGRBX6vTjQirsdyJim.jpg"
+  },
+  {
+    "name": "Capital Grill Mutton Burger",
+    "price": "Rs. 850",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/S8voSXiKF6kUbqUlDI8o.jpg"
+  },
+  {
+    "name": "Capital Grill Tenderloin Burger",
+    "price": "Rs. 650",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/xEUv0TUyM66GW4LasryX.jpg"
+  },
+  {
+    "name": "Capital Grill Crispy Chicken Burger",
+    "price": "Rs. 600",
+    "imageUrl": "https://jimbuthakali.com/storage/frontend/assets/images/jimbu-default.jpg"
+  },
+  {
+    "name": "Spicy Thai Chicken Nuggets",
+    "price": "Rs. 480",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/Z25g0bbu35rXx5JXg6gG.jpg"
+  },
+  {
+    "name": "Wood Fire Buffalo Wings",
+    "price": "Rs. 625",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/P2PpTJpT4yIEZrMVtdtw.jpg"
+  },
+  {
+    "name": "Jumbo Golden Fried Prawns",
+    "price": "Rs. 800",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/hW9jZOsqKvKD3lhwEUhE.jpg"
+  },
+  {
+    "name": "Cheese Croquette",
+    "price": "Rs. 520",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ox1NOp4N7UAOPeJmEUFT.jpg"
+  },
+  {
+    "name": "Country Fries",
+    "price": "Rs. 345",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/woOl3PbDaZZeTVbHzoVN.jpg"
+  },
+  {
+    "name": "Stuffed Egg Plant",
+    "price": "Rs. 380",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/IsCjFd03sLj2fKW2IGwP.jpg"
+  },
+  {
+    "name": "Stuffed Baked Potato",
+    "price": "Rs. 435",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/qSk69HeY8lbNcYWQmqbJ.jpg"
+  },
+  {
+    "name": "Barbeque Chicken",
+    "price": "Rs. 465",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/5u8qgdpbftQK17SgXQo9.jpg"
+  },
+  {
+    "name": "Grilled Chicken",
+    "price": "Rs. 570",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/CdaklE4iX5z8sjJZTmXA.jpg"
+  },
+  {
+    "name": "Grilled Pork",
+    "price": "Rs. 520",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/IydWweZmyfX4ZsEXnZiN.jpg"
+  },
+  {
+    "name": "Capital Grill Nachos (VEG)",
+    "price": "Rs. 650",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/dvWVsofgZCHk4gGX99CX.JPG"
+  },
+  {
+    "name": "Veg. Pineapple Quesadilla",
+    "price": "Rs. 465",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/fY462LA8cw87bopWzguC.jpg"
+  },
+  {
+    "name": "Chips & Queso",
+    "price": "Rs. 580",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/LJ6ZYSgJwUYWrfM3jfaB.JPG"
+  },
+  {
+    "name": "Hummus",
+    "price": "Rs. 400",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/jpQTzxSvjn9FG1J2GT5e.jpg"
+  },
+  {
+    "name": "Chicken Pineapple Quesadilla",
+    "price": "Rs. 595",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/6UAmOO6t2N8HNCBov1HJ.jpg"
+  },
+  {
+    "name": "Buffalo Chicken Wings",
+    "price": "Rs. 560",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/VZQdGVoR5sBYOHEsrIM7.jpg"
+  },
+  {
+    "name": "Buffalo Shrimp",
+    "price": "Rs. 810",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/f6xmeYpdQknoao5vLJSN.jpg"
+  },
+  {
+    "name": "Trio Mushroom Chilly",
+    "price": "Rs. 495",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/hZiV8LBMmKodOBvu03q7.jpg"
+  },
+  {
+    "name": "Mustang Potato",
+    "price": "Rs. 345",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/qgitHP8ijVrdSbyflqkZ.jpg"
+  },
+  {
+    "name": "Angel Wings",
+    "price": "Rs. 520",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/G0ErQ1WaqXdW3weysDJl.jpg"
+  },
+  {
+    "name": "Chicken Chatpat",
+    "price": "Rs. 475",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/IzruPjOLEeTChReKHtqf.jpg"
+  },
+  {
+    "name": "Chicken Chilly",
+    "price": "Rs. 500",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/K4qwgfPjqbMcINmGtS6Y.jpg"
+  },
+  {
+    "name": "Pork Chilly",
+    "price": "Rs. 525",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Ett70BTVWMxOg6JlcAdp.jpg"
+  },
+  {
+    "name": "Fish Finger",
+    "price": "Rs. 500",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/JUwqN9jM9sFclnv4xZsA.jpg"
+  },
+  {
+    "name": "Capital Grill Nachos (Chicken)",
+    "price": "Rs. 800",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ynp2FsiAMpyGDMjFVjA3.jpg"
+  },
+  {
+    "name": "Tenderloin Steak with Black Pepper Sauce",
+    "price": "Rs. 1085",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/jtV7qNAQcBnMaHc3BanA.jpg"
+  },
+  {
+    "name": "Herb Chicken with Rosemary Sauce",
+    "price": "Rs. 715",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/8bdP1gF0kq6dpNuVYgBE.jpg"
+  },
+  {
+    "name": "Norwegian Salmon Steak with Caper Sauce",
+    "price": "Rs. 1490",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/9aMlx9dUu2rFCHbV7A0V.jpg"
+  },
+  {
+    "name": "Prawn Curry with Rice Pilaf",
+    "price": "Rs. 900",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/6oU2ckl1ITWcLZx8mqaO.jpg"
+  },
+  {
+    "name": "Grilled Pork Chop with Honey Garlic Sauc...",
+    "price": "Rs. 895",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/WqnIk838Lk05HvYHmXhf.jpg"
+  },
+  {
+    "name": "Fish & Chips",
+    "price": "Rs. 700",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/qjyu2DAz0J2Zw67dCH1A.jpg"
+  },
+  {
+    "name": "Paneer skewers with rice pilaf",
+    "price": "Rs. 515",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/41Cp19bOCr3lVSehjWGj.jpg"
+  },
+  {
+    "name": "Chicken Sizzler",
+    "price": "Rs. 745",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/9qPLB695toBCUJaqYJlk.jpg"
+  },
+  {
+    "name": "Cream Cheese Stuffed Chicken",
+    "price": "Rs. 810",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/kqGX3KcZop4DwRoXl9Na.jpg"
+  },
+  {
+    "name": "Fiesta Lime Chicken",
+    "price": "Rs. 680",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/6kvZHUSDz1OrazvEMKKb.jpg"
+  },
+  {
+    "name": "Veg. Calzone",
+    "price": "Rs. 495",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/DD7PfzgJEV1l05KdECfm.JPG"
+  },
+  {
+    "name": "Grilled King Fish",
+    "price": "Rs. 830",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/zwPU4ehs6OIQnhX4k9lj.jpg"
+  },
+  {
+    "name": "Fish Lyonnaise",
+    "price": "Rs. 805",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/SyeHa5J0hzu5tY1SMgA5.jpg"
+  },
+  {
+    "name": "Chicken Piccata",
+    "price": "Rs. 685",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/3jZjDcAZv6TKZ7iDqG7n.jpg"
+  },
+  {
+    "name": "Deep Fried Trout/ Baked Trout",
+    "price": "Rs. 1465",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/EPDQyJI3DKiKCiDQbA9v.jpg"
+  },
+  {
+    "name": "Chicken Picatta",
+    "price": "Rs. 685",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2024/IjWanaecoFWVWSQsvHX4.jpg"
+  },
+  {
+    "name": "Fish & Chips",
+    "price": "Rs. 700",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2024/bFnQuo26lSMKgXCDSve6.jpg"
+  },
+  {
+    "name": "Ruslan 60ml",
+    "price": "Rs. 480",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/j32vU8MyMK0zkhkLDRFZ.jpg"
+  },
+  {
+    "name": "Blue Ribbon Gin 60ml",
+    "price": "Rs. 480",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/zVvNgu8FtDwBe9mywutQ.jpg"
+  },
+  {
+    "name": "Bacardi 60ml",
+    "price": "Rs. 480",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/WJtDVycfRhd3nyKxaSJ7.jpg"
+  },
+  {
+    "name": "Captain Morgan Rum 30ml",
+    "price": "Rs. 480",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/KDcj6sJz7e6IA88O3V16.jpg"
+  },
+  {
+    "name": "Old Durbar 60ml",
+    "price": "Rs. 580",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/7Id9vtbSvcmXSnOUuMdR.jpg"
+  },
+  {
+    "name": "Old Durbar Chimney 60ml",
+    "price": "Rs. 680",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/98HwMZOkJ9BHtiSqoGci.jpg"
+  },
+  {
+    "name": "100 Pipers 60ml",
+    "price": "Rs. 830",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Z3gXT5mpDQLEOYFD2qlN.jpg"
+  },
+  {
+    "name": "Absolute 60ml",
+    "price": "Rs. 850",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/tO2Pjwz497v7fVuxaTOj.jpg"
+  },
+  {
+    "name": "Beefeater Gin 60ml",
+    "price": "Rs. 870",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/5t9srZtjCUt0x2cd8jmt.jpg"
+  },
+  {
+    "name": "Jameson Irish Whiskey 60ml",
+    "price": "Rs. 895",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/yRhboTobyu5TZRat6VuS.jpg"
+  },
+  {
+    "name": "Ballantine’s Whiskey 60ml",
+    "price": "Rs. 890",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/5Fo2FlgkTtfl0N5MhQSX.jpg"
+  },
+  {
+    "name": "Chivas 12 Years 60ml",
+    "price": "Rs. 1250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/YfZ94qjo0a9Wmm7gsQsA.jpg"
+  },
+  {
+    "name": "Chivas 18 Years 30ml",
+    "price": "Rs. 1165",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/MAv2MwY0fJ4Xiyvg4H17.jpg"
+  },
+  {
+    "name": "JW Black 30 ml.",
+    "price": "Rs. 600",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/xWYcPboyKJJgZmM7DAPq.jpg"
+  },
+  {
+    "name": "Double Black 30ml",
+    "price": "Rs. 655",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/UolhUh3F0fO3EcGMD6V0.jpg"
+  },
+  {
+    "name": "Glenlivet 12 Years 30ml",
+    "price": "Rs. 650",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/1oIIpwiK71DzFTWo8TOR.jpg"
+  },
+  {
+    "name": "Glenlivet 15 Years 30ml",
+    "price": "Rs. 1000",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/aJAf2ws9wHfBl4eYSRN8.jpg"
+  },
+  {
+    "name": "Ballantine 17 Years 30ml",
+    "price": "Rs. 1050",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/jeTWYSk3u9Lbj9LigZON.jpg"
+  },
+  {
+    "name": "Belvedere Vodka 30ml",
+    "price": "Rs. 750",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/YAxRgNl39qAdleV9bfUc.jpg"
+  },
+  {
+    "name": "Tequila (Olmeca) 30ml",
+    "price": "Rs. 330",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/ofzM2J32TEqellkaJRU7.jpg"
+  },
+  {
+    "name": "Tequila (Patron) 30ml",
+    "price": "Rs. 675",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/FM1PEWr4y9CAJZAUrRFQ.jpg"
+  },
+  {
+    "name": "Chivas 12 Years 30ml.",
+    "price": "Rs. 625",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/NTwHRokKBtxWeGsktT9m.jpg"
+  },
+  {
+    "name": "Ballantine’s Whiskey 30ml.",
+    "price": "Rs. 445",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/fEia8zlYoGtey8tlm17T.jpg"
+  },
+  {
+    "name": "Jameson Irish Whiskey 30ml.",
+    "price": "Rs. 445",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/IvvCzxpJkwt7x2sb4Hpf.jpg"
+  },
+  {
+    "name": "Beefeater Gin 30ml.",
+    "price": "Rs. 485",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/eQraTiDTzZHkcR1x5YQI.jpg"
+  },
+  {
+    "name": "Absolute 30ml.",
+    "price": "Rs. 425",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/uayc1qeKBClWGFX5KYlS.jpg"
+  },
+  {
+    "name": "100 Pipers 30ml.",
+    "price": "Rs. 415",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ox8yH8O1In88iZhzbBaO.jpg"
+  },
+  {
+    "name": "Old Durbar Chimney 30ml.",
+    "price": "Rs. 340",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/SS5IQmIKTKhGZtMiAyn5.jpg"
+  },
+  {
+    "name": "Old Durbar 30ml.",
+    "price": "Rs. 290",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/dSvN31ayZjG8ia5VCZgl.jpg"
+  },
+  {
+    "name": "Bacardi 30ml.",
+    "price": "Rs. 240",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/W7XNfTvY18lfYZZugFVM.jpg"
+  },
+  {
+    "name": "Blue Ribbon Gin 30ml.",
+    "price": "Rs. 240",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/9kspLnLwoyNUiIIA97FE.jpg"
+  },
+  {
+    "name": "Ruslan 30ml.",
+    "price": "Rs. 240",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/azeVVcYChdKCidskkjXb.jpg"
+  },
+  {
+    "name": "Mulled Wine",
+    "price": "Rs. 800",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/0McVzuuO03gRczc7XlgK.jpg"
+  },
+  {
+    "name": "Hot Rum Punch",
+    "price": "Rs. 595",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/hraYNRUUeHQUChjYfrRg.jpg"
+  },
+  {
+    "name": "Hot Toddy",
+    "price": "Rs. 595",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/ibVinwJ58Jpi3RNDhtb5.jpg"
+  },
+  {
+    "name": "Khukuri Rum 60 ml.",
+    "price": "Rs. 480",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/BAj696rEKJC46YUrb7k7.jpg"
+  },
+  {
+    "name": "Khukuri Rum 30 ml.",
+    "price": "Rs. 240",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/rXV9ZUW3nr9Kwd7nxnj5.jpg"
+  },
+  {
+    "name": "Captain Morgan Rum 60ml",
+    "price": "Rs. 960",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/V4UebfK6ecJOmel9iyfI.jpg"
+  },
+  {
+    "name": "Gorkha & Guns 30 ml.",
+    "price": "Rs. 340",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/UNcrCDAc2cNRbDNKsoxt.jpg"
+  },
+  {
+    "name": "8848 Vodka 30 ml.",
+    "price": "Rs. 240",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/hA7vCdJCcVDpk3jKJhxm.jpg"
+  },
+  {
+    "name": "8848 Vodka 60 ml.",
+    "price": "Rs. 480",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/1YNp3j7wRL5AElkR2Q5T.jpg"
+  },
+  {
+    "name": "Jägermeister 30 ml.",
+    "price": "Rs. 530",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/XGVu0mGXH0Sn4UF5dHAi.jpg"
+  },
+  {
+    "name": "Jägermeister 60 ml.",
+    "price": "Rs. 1060",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/FoyjlbJLzNTGGZSgGr9T.jpg"
+  },
+  {
+    "name": "VSOP Hennesy  30 ml.",
+    "price": "Rs. 1350",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Qb1EagxgcTpUOXRbFLml.jpg"
+  },
+  {
+    "name": "VSOP Hennesy  60 ml.",
+    "price": "Rs. 2700",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Q4phQjvX0cYKuVAx1yA3.jpg"
+  },
+  {
+    "name": "VSOP Martel 60 ml.",
+    "price": "Rs. 2100",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cFtbM0E6Rft62mVo1Ckd.jpg"
+  },
+  {
+    "name": "Chivas 18 Years 60ml",
+    "price": "Rs. 2330",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cpwckdOGxIjHsozyUNkV.jpg"
+  },
+  {
+    "name": "JW Black 60 ml.",
+    "price": "Rs. 1200",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/OzWdnQKjKtO7odR8sSvs.jpg"
+  },
+  {
+    "name": "Double Black 60ml",
+    "price": "Rs. 1310",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/lf5LpVn3soD2ICQJFVsr.jpg"
+  },
+  {
+    "name": "Jack Daniels 30 ml.",
+    "price": "Rs. 530",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/vnasugJtXITOMnWtBqpt.jpg"
+  },
+  {
+    "name": "Jack Daniels 60 ml.",
+    "price": "Rs. 1060",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/br0ZBXzY6CYeL1R3sVzt.jpg"
+  },
+  {
+    "name": "Glenlivet 15 Years 60 ml.",
+    "price": "Rs. 2000",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/UB1t12slRSOU0nMB10Ex.jpg"
+  },
+  {
+    "name": "Ballantine 17 Years 60ml",
+    "price": "Rs. 2100",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/AYo2W40tKt8vjBl34KBY.jpg"
+  },
+  {
+    "name": "Belvedere Vodka 60ml",
+    "price": "Rs. 1500",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/mjzt6wVOYHVAjueMs6nD.jpg"
+  },
+  {
+    "name": "Tequila (Olmeca) 60ml",
+    "price": "Rs. 660",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/PmjPOVURNVtsNWWw9a9C.jpg"
+  },
+  {
+    "name": "Tequila (Patron) 60ml",
+    "price": "Rs. 1350",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/DR8Z3GYHaCoz8Li3ZRjw.jpg"
+  },
+  {
+    "name": "Pina Colada",
+    "price": "Rs. 695",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/g0oZjkzGDZJv9LgzeRiV.jpg"
+  },
+  {
+    "name": "Khalua Colada",
+    "price": "Rs. 695",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/hnVNHFTbyRzCkyZRCwM8.jpg"
+  },
+  {
+    "name": "Margarita",
+    "price": "Rs. 680",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/0qyZ81LemEiq7R4yHFFq.jpg"
+  },
+  {
+    "name": "Flavored Margarita (Strawberry/Kiwi/Mang...",
+    "price": "Rs. 695",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/GA2jKZtuQ38RsvMW1UnV.jpg"
+  },
+  {
+    "name": "Strawberry Daiquiri",
+    "price": "Rs. 695",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/lfQlslSX26fF5DPr3CyY.jpg"
+  },
+  {
+    "name": "Pickled Tink (Strawberry Pina Colada)",
+    "price": "Rs. 695",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/7h88Wbtlpn5QxbgnF0u8.jpg"
+  },
+  {
+    "name": "Blue Sky",
+    "price": "Rs. 695",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/hrKF06YE8J56vcytKeWe.jpg"
+  },
+  {
+    "name": "Capital Grill Margarita",
+    "price": "Rs. 695",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Q9AHWoIGRUYkkcH3mWSu.jpg"
+  },
+  {
+    "name": "Absolutely Cosmopolitan",
+    "price": "Rs. 695",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/KYCTB2JLrmxt5Kxr3t0z.jpg"
+  },
+  {
+    "name": "Long Island Iced Tea",
+    "price": "Rs. 695",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/FL4P1ZqfMcGhw2GkUfmx.jpg"
+  },
+  {
+    "name": "Summer Breeze (Cucumber Martini)",
+    "price": "Rs. 695",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/q24xyaulkTvzd3iEFjSf.jpg"
+  },
+  {
+    "name": "Mojito",
+    "price": "Rs. 590",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/VxrWU3pwPSQZN0JXFjb1.jpg"
+  },
+  {
+    "name": "Flavored Spicy Lemonade (Kiwi/Strawberry...",
+    "price": "Rs. 590",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/dhSKE9ilLwgin9kfUmYG.jpg"
+  },
+  {
+    "name": "Bloody Mary",
+    "price": "Rs. 560",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/kVt8k8R7sDnzyMJ5hggP.jpg"
+  },
+  {
+    "name": "Appletini",
+    "price": "Rs. 590",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/RwJTacPgaYKIUMtRNIOS.jpg"
+  },
+  {
+    "name": "Dirty Martini",
+    "price": "Rs. 590",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/VACFVi8PMLyiYX6VIQiR.jpg"
+  },
+  {
+    "name": "B-52",
+    "price": "Rs. 395",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/ted5ShmWFMol0b8dWL49.jpg"
+  },
+  {
+    "name": "Kamakazi",
+    "price": "Rs. 295",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/vieHfNMD8CwO81kx2JCx.jpg"
+  },
+  {
+    "name": "Espresso Martini",
+    "price": "Rs. 595",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/BTA0sRG3eiaSf9s7oR1B.jpg"
+  },
+  {
+    "name": "Cranakazi",
+    "price": "Rs. 295",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/b1qYIoqDZHbyIEHFdlDE.jpg"
+  },
+  {
+    "name": "Lemon Drop Martino",
+    "price": "Rs. 495",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/WuLia3lrjJt52PiY8iBD.jpg"
+  },
+  {
+    "name": "Caipiroska",
+    "price": "Rs. 550",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/GOi1AQuhblXbv05ARCfm.jpg"
+  },
+  {
+    "name": "Malibu Bay Breeze",
+    "price": "Rs. 750",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/SrfuCshCyjRR18zWwHnj.jpg"
+  },
+  {
+    "name": "Brandy Coffee",
+    "price": "Rs. 500",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/J1LWN8ig2UCBH3XGtXNn.jpg"
+  },
+  {
+    "name": "Hot Toddy",
+    "price": "Rs. 525",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/E4IVSK040lU8GmDAQTfI.jpg"
+  },
+  {
+    "name": "Mulled Wine",
+    "price": "Rs. 850",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/kDs5M2eB5kBElY4PrP6b.jpg"
+  },
+  {
+    "name": "Mustang Scarves",
+    "price": "Rs. 550",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ffi5MwxAxRPmDOMM8ZAc.jpg"
+  },
+  {
+    "name": "Espresso (Single Shot)",
+    "price": "Rs. 135",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/8O8FSlbyeyHBYFYPV2Jb.jpg"
+  },
+  {
+    "name": "Americano",
+    "price": "Rs. 195",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/NiG8ybJkdLCPa4EtLcmk.jpg"
+  },
+  {
+    "name": "Café Latte",
+    "price": "Rs. 255",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/MGXI8F8joFOYPEJFd7wg.jpg"
+  },
+  {
+    "name": "Cappuccino",
+    "price": "Rs. 215",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/mCmvjTUUd2CbkMPc6iXc.jpg"
+  },
+  {
+    "name": "Hot Chocolate",
+    "price": "Rs. 270",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/rYpJjUCgjI87sTd0OdoP.jpg"
+  },
+  {
+    "name": "Chai Latte",
+    "price": "Rs. 300",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/KmJe0tW0Am1SIqc0pk7g.jpg"
+  },
+  {
+    "name": "Mocha",
+    "price": "Rs. 270",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/w8XSSww8lqzTgso56UYr.jpg"
+  },
+  {
+    "name": "Baby Chaino",
+    "price": "Rs. 125",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/g9eeKiI2jTR2Cbt4cA86.jpg"
+  },
+  {
+    "name": "Kids Hot Chocolate",
+    "price": "Rs. 170",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/6eOtCycJ1i51a85E1WvG.jpg"
+  },
+  {
+    "name": "Iced Espresso (Single Shot)",
+    "price": "Rs. 125",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/oiKsyALprX9tCORoFjkA.jpg"
+  },
+  {
+    "name": "Iced Café Latte",
+    "price": "Rs. 300",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Amnqa3Xlvs08bB7wRSkx.jpg"
+  },
+  {
+    "name": "Iced Chai Latte",
+    "price": "Rs. 335",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/HwnJ191bs4Y8xd8Rbdss.jpg"
+  },
+  {
+    "name": "Iced Mocha",
+    "price": "Rs. 335",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/vCnq8KLkvmBgFWPX8zJx.jpg"
+  },
+  {
+    "name": "Iced Cappuccino",
+    "price": "Rs. 295",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/rs9w3OfO1vCbyVI5bzo6.jpg"
+  },
+  {
+    "name": "Iced Hot Chocolate",
+    "price": "Rs. 265",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/L6gyZUBykpoKrLkQbaVB.jpg"
+  },
+  {
+    "name": "Masala Spicy Tea",
+    "price": "Rs. 125",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/FRZfxLMPqvLqhvNxxYgo.jpg"
+  },
+  {
+    "name": "Black Tea",
+    "price": "Rs. 110",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/KzyyGTxa7eMqeynHN9iD.jpg"
+  },
+  {
+    "name": "Green Tea",
+    "price": "Rs. 115",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/zcGj03nfluYY0DUOEoSN.jpg"
+  },
+  {
+    "name": "Fresh Lemon Tea",
+    "price": "Rs. 150",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Wem6rQbQ9PNUiFzz2GAK.jpg"
+  },
+  {
+    "name": "Masala Chai",
+    "price": "Rs. 165",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Cm76RpYfORpjQIkbtHPF.jpg"
+  },
+  {
+    "name": "Iced Tea",
+    "price": "Rs. 110",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Gv92bi0yJUKEcVH6h08i.jpg"
+  },
+  {
+    "name": "Coffee Frappe",
+    "price": "Rs. 340",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/tQlXb2OnrzhUbeqw12as.jpg"
+  },
+  {
+    "name": "Exotic add-on",
+    "price": "Rs. 60",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/DhSdtyYTl0CXKiJY2fzI.jpg"
+  },
+  {
+    "name": "Mocha Frappe",
+    "price": "Rs. 395",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Dl9Usoxy0VD7eaMCvIlU.jpg"
+  },
+  {
+    "name": "Oreo Frappe",
+    "price": "Rs. 395",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/6O00o3zDByWXOrYmcZ5g.jpg"
+  },
+  {
+    "name": "Strawberry Frappe",
+    "price": "Rs. 395",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/hkVuOhsbnckJFMjBDvVS.jpg"
+  },
+  {
+    "name": "Caramel Frappe",
+    "price": "Rs. 395",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/X0iu1bbQQ3VtVywKJyRe.jpg"
+  },
+  {
+    "name": "Double Flavored Frappe",
+    "price": "Rs. 395",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/FUtHyxenDOCzaDRVndFr.jpg"
+  },
+  {
+    "name": "Choco Mint Frappe",
+    "price": "Rs. 395",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/OO9fZWTFE5Pnk3ywPb3m.jpg"
+  },
+  {
+    "name": "Oreo Choco Frappe",
+    "price": "Rs. 395",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/9T5Ay9As8dbdxaXKkeby.jpg"
+  },
+  {
+    "name": "Mango Lassi",
+    "price": "Rs. 250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/b7JGarmuA9AQWEaE6GvW.jpg"
+  },
+  {
+    "name": "Banana Lassi",
+    "price": "Rs. 250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/MTXSaAtgziPsIjJQxjR7.jpg"
+  },
+  {
+    "name": "Vanilla Lassi",
+    "price": "Rs. 250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/7qwUvcNOSJ5qL7QJSFa8.jpg"
+  },
+  {
+    "name": "Sweet Lassi",
+    "price": "Rs. 250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/IT7uib0bVpNaZBnQyrsX.jpg"
+  },
+  {
+    "name": "Plain Lassi",
+    "price": "Rs. 240",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/brICgJ9wQzwjvenWfQII.jpg"
+  },
+  {
+    "name": "Strawberry Lassi",
+    "price": "Rs. 250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/gppUFmHG1BRF6rAjydlM.jpg"
+  },
+  {
+    "name": "Soda (Pepsi, 7 Up, Slice, Mirinda, Dew)",
+    "price": "Rs. 150",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/pT5bDaQaL5gkG9ksm6sC.jpg"
+  },
+  {
+    "name": "Diet Pepsi",
+    "price": "Rs. 185",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/9bbASXDZ2RUgV8mOVlYx.jpg"
+  },
+  {
+    "name": "Tonic Water",
+    "price": "Rs. 250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Jro3bDhtJ0BXciNcvyhJ.jpg"
+  },
+  {
+    "name": "Bottle Water",
+    "price": "Rs. 100",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Xwxx8UzT61N8ByXYVXTo.jpg"
+  },
+  {
+    "name": "Juices",
+    "price": "Rs. 210",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/gFUxQBTE3WUgofWLiKlT.jpg"
+  },
+  {
+    "name": "Marpha Apple Juice",
+    "price": "Rs. 745",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/SVvYUyuIF8mOBOM9a0Jj.jpg"
+  },
+  {
+    "name": "Fresh Juice (Glass of seasonal juice)",
+    "price": "Rs. 310",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/hhvUKIriFKwmQLhkhzkt.jpg"
+  },
+  {
+    "name": "Virgin Mojito",
+    "price": "Rs. 380",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/QDa0FDV5xPom8lNAYgEK.jpg"
+  },
+  {
+    "name": "Banana Berry Colada",
+    "price": "Rs. 385",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/sGopXEKOsw7GKCnvrkv3.jpg"
+  },
+  {
+    "name": "Virgin Pina Colada",
+    "price": "Rs. 385",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/w7DoNZXvZtLwuZTgH749.jpg"
+  },
+  {
+    "name": "Mango Dream",
+    "price": "Rs. 385",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/mAju5Z0PCgGZBlnluoI4.jpg"
+  },
+  {
+    "name": "Virgin Strawberry Daiquiri",
+    "price": "Rs. 385",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/2ICbEn1TKQ2cVT5wj0mz.jpg"
+  },
+  {
+    "name": "Iced Espresso (Double Shots)",
+    "price": "Rs. 150",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/kpqxJqaJBbvasKNPVI2K.jpg"
+  },
+  {
+    "name": "Espresso (Double Shots)",
+    "price": "Rs. 125",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/iJDIdJPNnEaSjMw6ulwK.jpg"
+  },
+  {
+    "name": "Iced Americano",
+    "price": "Rs. 250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/6S02HX7z2BqgYDmiV4pf.jpg"
+  },
+  {
+    "name": "Blue-Blossoms",
+    "price": "Rs. 350",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/tC5rOVRMWNFj3eZoL3LY.png"
+  },
+  {
+    "name": "Mango Mule",
+    "price": "Rs. 450",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/iT7u4YdYslLjXVNCViJt.png"
+  },
+  {
+    "name": "Tropical Fruit-Punch",
+    "price": "Rs. 450",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/x9DO4MNn2CoJAGmCynzv.png"
+  },
+  {
+    "name": "Berry Smoothie",
+    "price": "Rs. 375",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/fQFOhqExC7B81bYIqPDM.png"
+  },
+  {
+    "name": "ChocoBanana Smoothie",
+    "price": "Rs. 375",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Ja4Ny1GU5yxbeP04gJV8.png"
+  },
+  {
+    "name": "Peach Ice Tea",
+    "price": "Rs. 220",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ePHGWztrIqFJri2jsI6D.jpg"
+  },
+  {
+    "name": "Tukche Brandy 30ml",
+    "price": "Rs. 250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/BaSt4MebW1HHgIH8288M.jpg"
+  },
+  {
+    "name": "Tukche Brandy 60ml",
+    "price": "Rs. 500",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/3DkYYtAc1NRR2wqYvJHb.jpg"
+  },
+  {
+    "name": "Marpha apple juice(250 ml)",
+    "price": "Rs. 350",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2024/Z6uMtUFCcNiun6n32YRQ.jpg"
+  },
+  {
+    "name": "Jacobs Creek",
+    "price": "Rs.",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/ZuElrAgmhs54xL0azRGw.jpg"
+  },
+  {
+    "name": "House Wine (Per glass)",
+    "price": "Rs. 850",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/MgxLcB1nhPzXc2tvE2wg.jpg"
+  },
+  {
+    "name": "House Wine (Bottle)",
+    "price": "Rs. 3500",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/0kjj3fJTS4bws66xHSpA.jpg"
+  },
+  {
+    "name": "Carlsberg Bottle",
+    "price": "Rs. 765",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/7lHtl5aciYGstd3C16hA.jpg"
+  },
+  {
+    "name": "Tuborg",
+    "price": "Rs. 740",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/g985PhtnpCr1orNqDfCb.jpg"
+  },
+  {
+    "name": "Gorkha (Bottle)",
+    "price": "Rs. 690",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/K00bnYSYHq8fRpkpHlXE.jpg"
+  },
+  {
+    "name": "Arna Light",
+    "price": "Rs. 685",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/JrJGImR1ezpEno4gwupR.jpg"
+  },
+  {
+    "name": "Warsteiner",
+    "price": "Rs. 685",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/RTUhIKzdqHmLreZDtrKF.jpg"
+  },
+  {
+    "name": "Corona",
+    "price": "Rs. 710",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/HvcBQaGetEXJdwoUPwnZ.jpg"
+  },
+  {
+    "name": "Belgium Beer (Stella Artois, Hoegaarden)",
+    "price": "Rs. 635",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/7gRq0pvvvEVIpH2RDs3x.jpg"
+  },
+  {
+    "name": "Somersby Apple Cider",
+    "price": "Rs. 435",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/bfClNVXru6V5ujyjLqoh.jpg"
+  },
+  {
+    "name": "Gorkha Craft (Bottle)",
+    "price": "Rs. 680",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/4gpFur0sVTHeib6Vp1cb.jpg"
+  },
+  {
+    "name": "Sherpa Khumbu Gold Draft (Per glass)",
+    "price": "Rs. 640",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/y3SnhNXBmsD2Ql54CiIp.jpg"
+  },
+  {
+    "name": "Sherpa Khumbu Gold Draft (Picher)",
+    "price": "Rs. 2100",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Q68K2TeQ1MQlzZOw06Wf.jpg"
+  },
+  {
+    "name": "Sherpa Himalayan Red Draft (Per glass)",
+    "price": "Rs. 640",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/4ZtiqygiT1uOve5tARzn.jpg"
+  },
+  {
+    "name": "Sherpa Himalayan Red Draft (Picher)",
+    "price": "Rs. 2100",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/1Zp2twSlLvJCl4BByl4j.jpg"
+  },
+  {
+    "name": "Barahsinghe Pilsner",
+    "price": "Rs. 750",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/40hEJiNzbh7EGYigSZxw.jpg"
+  },
+  {
+    "name": "Barahsinghe Pilsner (330 ml.)",
+    "price": "Rs. 370",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/xxsBZJRR8ZTXZ1vTUMit.jpg"
+  },
+  {
+    "name": "Budwiser",
+    "price": "Rs. 720",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/NNiZGMwNB83xgyiXU3me.jpg"
+  },
+  {
+    "name": "Sherpa Nepal IPA Draft (per glass)",
+    "price": "Rs. 730",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/uvikIeV9GudyHkj6Kbzk.jpg"
+  },
+  {
+    "name": "Sherpa Nepal IPA Draft (picher)",
+    "price": "Rs. 2250",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/TliQhJVSLzB5RtBq0xsH.jpg"
+  },
+  {
+    "name": "CHIMICHANGA CHEESE CAKE",
+    "price": "Rs. 475",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/July2023/fw7ixXuuFwgflCq3TngW.jpg"
+  },
+  {
+    "name": "APPLE COBBLER",
+    "price": "Rs. 495",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/July2023/Oi5kVtU1Wa1zAiBmClXD.jpg"
+  },
+  {
+    "name": "CHUROS",
+    "price": "Rs. 300",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/July2023/GAgMMJ4ZbtJCKy4OnuDX.jpg"
+  },
+  {
+    "name": "White Chocolate Brownie",
+    "price": "Rs. 480",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/July2023/lRQB8AY2G8BOc5ZjStsc.jpg"
+  },
+  {
+    "name": "Flourless Almond chocolate brownie",
+    "price": "Rs. 470",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/July2023/LkuG8g8UFQfE7Kp4gMhm.jpg"
+  },
+  {
+    "name": "Jimbu Thakali T...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/8fBkqNbVqHf6dmfdCmQ0.jpg"
+  },
+  {
+    "name": "Jimbu Thakali T...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/t0WstEstREFiY7Dg4qxm.jpg"
+  },
+  {
+    "name": "Jimbu Thakali T...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/kAgdnvEgGaxYiUvXHdU0.jpg"
+  },
+  {
+    "name": "Jimbu Thakali T...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/WZQqlD9hRZvi1W95dWEG.jpg"
+  },
+  {
+    "name": "Dhido Thali (Ch...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/TMtohSiJKxYZ1i2yTYTU.jpg"
+  },
+  {
+    "name": "Dhido Thali (Mu...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cCfBNaOikkHR79S4x6di.jpg"
+  },
+  {
+    "name": "Dhido Thali (Fi...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/VWKR6Kbv3EVoL6eOHnHw.jpg"
+  },
+  {
+    "name": "Dhido Thali (Ve...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/gbaJhBghFCugmvUNa9T4.jpg"
+  },
+  {
+    "name": "Side of Chicken",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/vGbKJgMviAjlNuTCr3hU.jpg"
+  },
+  {
+    "name": "Side of Mutton",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/pQtvKlEyqbBUmMUdUXYe.jpg"
+  },
+  {
+    "name": "Side of Fish",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/FENZNgl40ZDMIel9rLYt.jpg"
+  },
+  {
+    "name": "Side of Omelett...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/eeeowVQRltOgUFTBN4Af.jpg"
+  },
+  {
+    "name": "Bhutan (Goes we...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/YzjSYZ5Cje4r3y4SL3xW.jpg"
+  },
+  {
+    "name": "Egg Curry",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/O3rL7zRUtwD3eGGGAwaS.jpg"
+  },
+  {
+    "name": "Ghoken (Thakali...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cNMcVPnbzMlO5axairuM.jpg"
+  },
+  {
+    "name": "Jimbu Special W...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/BMp17etUa6iijMDSY1RT.jpg"
+  },
+  {
+    "name": "Trout Jhol",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/OP4ApLS4oEeMFhfL5HkB.jpg"
+  },
+  {
+    "name": "Jimbu Special C...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ru6QmdxufMQmqKDl6aDV.jpg"
+  },
+  {
+    "name": "Jimbu Gourmet M...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/epNlAD0wFnVg1lsbH6uv.jpg"
+  },
+  {
+    "name": "Chicken Momo",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/RK9W2AqaHwumgXYtnB65.jpg"
+  },
+  {
+    "name": "Jimbu Gourmet V...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/3Y0JdH3niqcYxlbS8O2t.jpg"
+  },
+  {
+    "name": "Jhol Mutton Mom...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/jo0np9EujbeUfSzGSOve.jpg"
+  },
+  {
+    "name": "Jhol Chicken Mo...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ZYrxlhrAkHxQONdauXPO.jpg"
+  },
+  {
+    "name": "Veg. Jhol Momo",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/MAqf8lO8AqWFxWq4Owbt.jpg"
+  },
+  {
+    "name": "Thakali Chicken...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/zVVQFrEpPM8Ozcmjb2Zv.jpg"
+  },
+  {
+    "name": "Thakali Mutton...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/7ePcIpXoI8FV72gZuTV7.jpg"
+  },
+  {
+    "name": "Aaloo Sadeko",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/XuNe05y6eH4qIrQ44wYi.jpg"
+  },
+  {
+    "name": "Kanchymba",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ipRvVR5MZQMmQn9sbcci.jpg"
+  },
+  {
+    "name": "Mutton Sukuti",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/pHC3OfHK7gf93vgNCBmR.jpg"
+  },
+  {
+    "name": "Mutton Sukuti S...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/O8ENJgw80hm31V7xMeik.jpg"
+  },
+  {
+    "name": "Dhung (Thakali...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/kRAUL9Q4Ic8BXMDW2vnP.jpg"
+  },
+  {
+    "name": "Mutton Farsi",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cfas73tobMgfYuCGraJe.jpg"
+  },
+  {
+    "name": "Aloo Jimbu Suku...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/4V1KRX9xlpwUJz42s3zL.jpg"
+  },
+  {
+    "name": "Fried Fish",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Rk3oyUW2GHPgsydXNFmK.jpg"
+  },
+  {
+    "name": "Mutton Sekuwa",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/BMpD8gVjwEiEONS3hbRa.jpg"
+  },
+  {
+    "name": "Faro Thakali So...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/rrHQH408cOYu1M8oLoXG.jpg"
+  },
+  {
+    "name": "Pangra Fried",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/uVDVJAjhBhZBt6bOz6jl.jpg"
+  },
+  {
+    "name": "Mushroom Choila",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Qjmy2kzBpS1uZPeQqHMw.jpg"
+  },
+  {
+    "name": "Faro Thakali So...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/9VveOc7Ux5xro9jgGv4K.jpg"
+  },
+  {
+    "name": "Chicken Sekuwa",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Wnnh1yrL06bgBKmhYzYH.jpg"
+  },
+  {
+    "name": "Bhutan",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/yQx0tG6egAah3B8OSWkK.jpg"
+  },
+  {
+    "name": "Masala Peanuts",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/B3Dtz008VnkSeEcwlNlW.jpg"
+  },
+  {
+    "name": "Thakali Mutton...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/qAaOV6LJdtlWB5uy1R9X.jpg"
+  },
+  {
+    "name": "Wood Fire Choil...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Uej7pdwImSdZJpTo9Eec.jpg"
+  },
+  {
+    "name": "Kanchymba Chill...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/8b4qy3S1RZz2DRyWjNUH.jpg"
+  },
+  {
+    "name": "Basket Fish Fri...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/njzC1GZeN6RMk4QL6Sca.jpg"
+  },
+  {
+    "name": "Masala Papad",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cp9Ldy7WCqiMoj1OAS9Y.jpg"
+  },
+  {
+    "name": "French Fries",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/TCb38AqtxtKJcHQHKBir.jpg"
+  },
+  {
+    "name": "Bhutan Chatpata",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2024/GYKQ0h5s8rqMksMeI9vS.jpg"
+  },
+  {
+    "name": "Timmur Chicken",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2024/jXbwk0ecEQBfSbujLuND.jpg"
+  },
+  {
+    "name": "Caesar Salad (V...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/TZJDN3DA1KUyJavTlDUE.jpg"
+  },
+  {
+    "name": "Blue Cheese Gri...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/NRSL46qlfXnAacAq7skU.jpg"
+  },
+  {
+    "name": "Caesar Salad (C...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/WVrSSUtwVYyzn5YMGVa0.jpg"
+  },
+  {
+    "name": "Green Salad",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/lTjlSl89sd9za0T1abTT.jpg"
+  },
+  {
+    "name": "Cream of Velout...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/pEQIuCKMpWUyt5pjKVYz.jpg"
+  },
+  {
+    "name": "Cream of Velout...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/h7shmkDmcYVWhhRoHy5D.jpg"
+  },
+  {
+    "name": "Al Pollo",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/FlogXW6PKT51ia4qauga.jpg"
+  },
+  {
+    "name": "Hawaiian Pizza",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/a7cdHA8LceKTyej5Fb6d.jpg"
+  },
+  {
+    "name": "Fungi (Mushroom...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/0fJ9hVZm5YB0QiOzHyUt.jpg"
+  },
+  {
+    "name": "Pepperoni Pizza...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/daVsLde9xGEq61aM2adG.jpg"
+  },
+  {
+    "name": "Mixed Veg. Pizz...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/2vVEX6rbePl73DIHj7US.jpg"
+  },
+  {
+    "name": "4 Cheese Pizza",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/oo83dcnkYMhWeoRz7g6x.jpg"
+  },
+  {
+    "name": "Margherita Pizz...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/TDypZx63o41NWCO7WCvt.jpg"
+  },
+  {
+    "name": "Mexican Pizza",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/78Hp77hfaHuY1KWSswDL.jpg"
+  },
+  {
+    "name": "Mushroom Choila...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/VGIzBTD598mE9hc1y2R8.jpg"
+  },
+  {
+    "name": "Chicken Choila...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/DCYzyRlflvy82kCMUUhD.jpg"
+  },
+  {
+    "name": "Spaghetti Bolog...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/46N3mS3BEWa7DpSY4ddu.jpg"
+  },
+  {
+    "name": "Tagliatelle Alf...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/QM98HbDsXdrhLzrDlFCF.jpg"
+  },
+  {
+    "name": "Chicken Lasagna",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Jl3WtOoPPwZ3rrykGlTX.jpg"
+  },
+  {
+    "name": "Penne Arrabiata...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/DQQ2mEPNJKuEZ9OaTLV9.jpg"
+  },
+  {
+    "name": "Spaghetti Carbo...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/GibMHMJjlCtFaKJt80W0.jpg"
+  },
+  {
+    "name": "Capital Grill C...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/UIlHPUbkMuTH2qKfNLTq.jpg"
+  },
+  {
+    "name": "Capital Grill V...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/6lLcjapAm4H1c14h6Xmc.jpg"
+  },
+  {
+    "name": "Veg. Club Sandw...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/2pTXMxMn1ncUxe1OKwd9.jpg"
+  },
+  {
+    "name": "Monte Cristo Sa...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/rdZMo1n0LWH6y8cEiLqD.jpg"
+  },
+  {
+    "name": "Non-veg. Club S...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/RX106ULGQskrU8XBYj1S.jpg"
+  },
+  {
+    "name": "Buffalo Chicken...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/PtqGRBX6vTjQirsdyJim.jpg"
+  },
+  {
+    "name": "Capital Grill M...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/S8voSXiKF6kUbqUlDI8o.jpg"
+  },
+  {
+    "name": "Capital Grill T...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/xEUv0TUyM66GW4LasryX.jpg"
+  },
+  {
+    "name": "Capital Grill C...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/frontend/assets/images/jimbu-default.jpg"
+  },
+  {
+    "name": "Spicy Thai Chic...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/Z25g0bbu35rXx5JXg6gG.jpg"
+  },
+  {
+    "name": "Wood Fire Buffa...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/P2PpTJpT4yIEZrMVtdtw.jpg"
+  },
+  {
+    "name": "Jumbo Golden Fr...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/hW9jZOsqKvKD3lhwEUhE.jpg"
+  },
+  {
+    "name": "Cheese Croquett...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ox1NOp4N7UAOPeJmEUFT.jpg"
+  },
+  {
+    "name": "Country Fries",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/woOl3PbDaZZeTVbHzoVN.jpg"
+  },
+  {
+    "name": "Stuffed Egg Pla...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/IsCjFd03sLj2fKW2IGwP.jpg"
+  },
+  {
+    "name": "Stuffed Baked P...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/qSk69HeY8lbNcYWQmqbJ.jpg"
+  },
+  {
+    "name": "Barbeque Chicke...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/5u8qgdpbftQK17SgXQo9.jpg"
+  },
+  {
+    "name": "Grilled Chicken",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/CdaklE4iX5z8sjJZTmXA.jpg"
+  },
+  {
+    "name": "Grilled Pork",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/IydWweZmyfX4ZsEXnZiN.jpg"
+  },
+  {
+    "name": "Capital Grill N...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/dvWVsofgZCHk4gGX99CX.JPG"
+  },
+  {
+    "name": "Veg. Pineapple...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/fY462LA8cw87bopWzguC.jpg"
+  },
+  {
+    "name": "Chips & Queso",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/LJ6ZYSgJwUYWrfM3jfaB.JPG"
+  },
+  {
+    "name": "Hummus",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/jpQTzxSvjn9FG1J2GT5e.jpg"
+  },
+  {
+    "name": "Chicken Pineapp...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/6UAmOO6t2N8HNCBov1HJ.jpg"
+  },
+  {
+    "name": "Buffalo Chicken...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/VZQdGVoR5sBYOHEsrIM7.jpg"
+  },
+  {
+    "name": "Buffalo Shrimp",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/f6xmeYpdQknoao5vLJSN.jpg"
+  },
+  {
+    "name": "Trio Mushroom C...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/hZiV8LBMmKodOBvu03q7.jpg"
+  },
+  {
+    "name": "Mustang Potato",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/qgitHP8ijVrdSbyflqkZ.jpg"
+  },
+  {
+    "name": "Angel Wings",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/G0ErQ1WaqXdW3weysDJl.jpg"
+  },
+  {
+    "name": "Chicken Chatpat",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/IzruPjOLEeTChReKHtqf.jpg"
+  },
+  {
+    "name": "Chicken Chilly",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/K4qwgfPjqbMcINmGtS6Y.jpg"
+  },
+  {
+    "name": "Pork Chilly",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Ett70BTVWMxOg6JlcAdp.jpg"
+  },
+  {
+    "name": "Fish Finger",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/JUwqN9jM9sFclnv4xZsA.jpg"
+  },
+  {
+    "name": "Capital Grill N...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ynp2FsiAMpyGDMjFVjA3.jpg"
+  },
+  {
+    "name": "Tenderloin Stea...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/jtV7qNAQcBnMaHc3BanA.jpg"
+  },
+  {
+    "name": "Herb Chicken wi...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/8bdP1gF0kq6dpNuVYgBE.jpg"
+  },
+  {
+    "name": "Norwegian Salmo...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/9aMlx9dUu2rFCHbV7A0V.jpg"
+  },
+  {
+    "name": "Prawn Curry wit...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/6oU2ckl1ITWcLZx8mqaO.jpg"
+  },
+  {
+    "name": "Grilled Pork Ch...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/WqnIk838Lk05HvYHmXhf.jpg"
+  },
+  {
+    "name": "Fish & Chips",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/qjyu2DAz0J2Zw67dCH1A.jpg"
+  },
+  {
+    "name": "Paneer skewers...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/41Cp19bOCr3lVSehjWGj.jpg"
+  },
+  {
+    "name": "Chicken Sizzler",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/9qPLB695toBCUJaqYJlk.jpg"
+  },
+  {
+    "name": "Cream Cheese St...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/kqGX3KcZop4DwRoXl9Na.jpg"
+  },
+  {
+    "name": "Fiesta Lime Chi...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/February2021/6kvZHUSDz1OrazvEMKKb.jpg"
+  },
+  {
+    "name": "Veg. Calzone",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/DD7PfzgJEV1l05KdECfm.JPG"
+  },
+  {
+    "name": "Grilled King Fi...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/zwPU4ehs6OIQnhX4k9lj.jpg"
+  },
+  {
+    "name": "Fish Lyonnaise",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/SyeHa5J0hzu5tY1SMgA5.jpg"
+  },
+  {
+    "name": "Chicken Piccata",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/3jZjDcAZv6TKZ7iDqG7n.jpg"
+  },
+  {
+    "name": "Deep Fried Trou...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/EPDQyJI3DKiKCiDQbA9v.jpg"
+  },
+  {
+    "name": "Chicken Picatta",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2024/IjWanaecoFWVWSQsvHX4.jpg"
+  },
+  {
+    "name": "Fish & Chips",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2024/bFnQuo26lSMKgXCDSve6.jpg"
+  },
+  {
+    "name": "Ruslan 60ml",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/j32vU8MyMK0zkhkLDRFZ.jpg"
+  },
+  {
+    "name": "Blue Ribbon Gin...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/zVvNgu8FtDwBe9mywutQ.jpg"
+  },
+  {
+    "name": "Bacardi 60ml",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/WJtDVycfRhd3nyKxaSJ7.jpg"
+  },
+  {
+    "name": "Captain Morgan...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/KDcj6sJz7e6IA88O3V16.jpg"
+  },
+  {
+    "name": "Old Durbar 60ml",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/7Id9vtbSvcmXSnOUuMdR.jpg"
+  },
+  {
+    "name": "Old Durbar Chim...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/98HwMZOkJ9BHtiSqoGci.jpg"
+  },
+  {
+    "name": "100 Pipers 60ml",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Z3gXT5mpDQLEOYFD2qlN.jpg"
+  },
+  {
+    "name": "Absolute 60ml",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/tO2Pjwz497v7fVuxaTOj.jpg"
+  },
+  {
+    "name": "Beefeater Gin 6...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/5t9srZtjCUt0x2cd8jmt.jpg"
+  },
+  {
+    "name": "Jameson Irish W...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/yRhboTobyu5TZRat6VuS.jpg"
+  },
+  {
+    "name": "Ballantine’s Wh...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/5Fo2FlgkTtfl0N5MhQSX.jpg"
+  },
+  {
+    "name": "Chivas 12 Years...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/YfZ94qjo0a9Wmm7gsQsA.jpg"
+  },
+  {
+    "name": "Chivas 18 Years...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/MAv2MwY0fJ4Xiyvg4H17.jpg"
+  },
+  {
+    "name": "JW Black 30 ml.",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/xWYcPboyKJJgZmM7DAPq.jpg"
+  },
+  {
+    "name": "Double Black 30...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/UolhUh3F0fO3EcGMD6V0.jpg"
+  },
+  {
+    "name": "Glenlivet 12 Ye...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/1oIIpwiK71DzFTWo8TOR.jpg"
+  },
+  {
+    "name": "Glenlivet 15 Ye...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/aJAf2ws9wHfBl4eYSRN8.jpg"
+  },
+  {
+    "name": "Ballantine 17 Y...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/jeTWYSk3u9Lbj9LigZON.jpg"
+  },
+  {
+    "name": "Belvedere Vodka...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/YAxRgNl39qAdleV9bfUc.jpg"
+  },
+  {
+    "name": "Tequila (Olmeca...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/ofzM2J32TEqellkaJRU7.jpg"
+  },
+  {
+    "name": "Tequila (Patron...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/FM1PEWr4y9CAJZAUrRFQ.jpg"
+  },
+  {
+    "name": "Chivas 12 Years...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/NTwHRokKBtxWeGsktT9m.jpg"
+  },
+  {
+    "name": "Ballantine’s Wh...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/fEia8zlYoGtey8tlm17T.jpg"
+  },
+  {
+    "name": "Jameson Irish W...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/IvvCzxpJkwt7x2sb4Hpf.jpg"
+  },
+  {
+    "name": "Beefeater Gin 3...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/eQraTiDTzZHkcR1x5YQI.jpg"
+  },
+  {
+    "name": "Absolute 30ml.",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/uayc1qeKBClWGFX5KYlS.jpg"
+  },
+  {
+    "name": "100 Pipers 30ml...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ox8yH8O1In88iZhzbBaO.jpg"
+  },
+  {
+    "name": "Old Durbar Chim...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/SS5IQmIKTKhGZtMiAyn5.jpg"
+  },
+  {
+    "name": "Old Durbar 30ml...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/dSvN31ayZjG8ia5VCZgl.jpg"
+  },
+  {
+    "name": "Bacardi 30ml.",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/W7XNfTvY18lfYZZugFVM.jpg"
+  },
+  {
+    "name": "Blue Ribbon Gin...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/9kspLnLwoyNUiIIA97FE.jpg"
+  },
+  {
+    "name": "Ruslan 30ml.",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/azeVVcYChdKCidskkjXb.jpg"
+  },
+  {
+    "name": "Mulled Wine",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/0McVzuuO03gRczc7XlgK.jpg"
+  },
+  {
+    "name": "Hot Rum Punch",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/hraYNRUUeHQUChjYfrRg.jpg"
+  },
+  {
+    "name": "Hot Toddy",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/December2021/ibVinwJ58Jpi3RNDhtb5.jpg"
+  },
+  {
+    "name": "Khukuri Rum 60...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/BAj696rEKJC46YUrb7k7.jpg"
+  },
+  {
+    "name": "Khukuri Rum 30...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/rXV9ZUW3nr9Kwd7nxnj5.jpg"
+  },
+  {
+    "name": "Captain Morgan...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/V4UebfK6ecJOmel9iyfI.jpg"
+  },
+  {
+    "name": "Gorkha & Guns 3...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/UNcrCDAc2cNRbDNKsoxt.jpg"
+  },
+  {
+    "name": "8848 Vodka 30 m...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/hA7vCdJCcVDpk3jKJhxm.jpg"
+  },
+  {
+    "name": "8848 Vodka 60 m...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/1YNp3j7wRL5AElkR2Q5T.jpg"
+  },
+  {
+    "name": "Jägermeister 30...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/XGVu0mGXH0Sn4UF5dHAi.jpg"
+  },
+  {
+    "name": "Jägermeister 60...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/FoyjlbJLzNTGGZSgGr9T.jpg"
+  },
+  {
+    "name": "VSOP Hennesy  3...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Qb1EagxgcTpUOXRbFLml.jpg"
+  },
+  {
+    "name": "VSOP Hennesy  6...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Q4phQjvX0cYKuVAx1yA3.jpg"
+  },
+  {
+    "name": "VSOP Martel 60...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cFtbM0E6Rft62mVo1Ckd.jpg"
+  },
+  {
+    "name": "Chivas 18 Years...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/cpwckdOGxIjHsozyUNkV.jpg"
+  },
+  {
+    "name": "JW Black 60 ml.",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/OzWdnQKjKtO7odR8sSvs.jpg"
+  },
+  {
+    "name": "Double Black 60...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/lf5LpVn3soD2ICQJFVsr.jpg"
+  },
+  {
+    "name": "Jack Daniels 30...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/vnasugJtXITOMnWtBqpt.jpg"
+  },
+  {
+    "name": "Jack Daniels 60...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/br0ZBXzY6CYeL1R3sVzt.jpg"
+  },
+  {
+    "name": "Glenlivet 15 Ye...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/UB1t12slRSOU0nMB10Ex.jpg"
+  },
+  {
+    "name": "Ballantine 17 Y...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/AYo2W40tKt8vjBl34KBY.jpg"
+  },
+  {
+    "name": "Belvedere Vodka...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/mjzt6wVOYHVAjueMs6nD.jpg"
+  },
+  {
+    "name": "Tequila (Olmeca...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/PmjPOVURNVtsNWWw9a9C.jpg"
+  },
+  {
+    "name": "Tequila (Patron...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/DR8Z3GYHaCoz8Li3ZRjw.jpg"
+  },
+  {
+    "name": "Pina Colada",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/g0oZjkzGDZJv9LgzeRiV.jpg"
+  },
+  {
+    "name": "Khalua Colada",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/hnVNHFTbyRzCkyZRCwM8.jpg"
+  },
+  {
+    "name": "Margarita",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/0qyZ81LemEiq7R4yHFFq.jpg"
+  },
+  {
+    "name": "Flavored Margar...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/GA2jKZtuQ38RsvMW1UnV.jpg"
+  },
+  {
+    "name": "Strawberry Daiq...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/lfQlslSX26fF5DPr3CyY.jpg"
+  },
+  {
+    "name": "Pickled Tink (S...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/7h88Wbtlpn5QxbgnF0u8.jpg"
+  },
+  {
+    "name": "Blue Sky",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/hrKF06YE8J56vcytKeWe.jpg"
+  },
+  {
+    "name": "Capital Grill M...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Q9AHWoIGRUYkkcH3mWSu.jpg"
+  },
+  {
+    "name": "Absolutely Cosm...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/KYCTB2JLrmxt5Kxr3t0z.jpg"
+  },
+  {
+    "name": "Long Island Ice...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/FL4P1ZqfMcGhw2GkUfmx.jpg"
+  },
+  {
+    "name": "Summer Breeze (...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/q24xyaulkTvzd3iEFjSf.jpg"
+  },
+  {
+    "name": "Mojito",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/VxrWU3pwPSQZN0JXFjb1.jpg"
+  },
+  {
+    "name": "Flavored Spicy...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/dhSKE9ilLwgin9kfUmYG.jpg"
+  },
+  {
+    "name": "Bloody Mary",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/kVt8k8R7sDnzyMJ5hggP.jpg"
+  },
+  {
+    "name": "Appletini",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/RwJTacPgaYKIUMtRNIOS.jpg"
+  },
+  {
+    "name": "Dirty Martini",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/VACFVi8PMLyiYX6VIQiR.jpg"
+  },
+  {
+    "name": "B-52",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/ted5ShmWFMol0b8dWL49.jpg"
+  },
+  {
+    "name": "Kamakazi",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/vieHfNMD8CwO81kx2JCx.jpg"
+  },
+  {
+    "name": "Espresso Martin...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/BTA0sRG3eiaSf9s7oR1B.jpg"
+  },
+  {
+    "name": "Cranakazi",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/b1qYIoqDZHbyIEHFdlDE.jpg"
+  },
+  {
+    "name": "Lemon Drop Mart...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/WuLia3lrjJt52PiY8iBD.jpg"
+  },
+  {
+    "name": "Caipiroska",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/GOi1AQuhblXbv05ARCfm.jpg"
+  },
+  {
+    "name": "Malibu Bay Bree...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/SrfuCshCyjRR18zWwHnj.jpg"
+  },
+  {
+    "name": "Brandy Coffee",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/J1LWN8ig2UCBH3XGtXNn.jpg"
+  },
+  {
+    "name": "Hot Toddy",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/E4IVSK040lU8GmDAQTfI.jpg"
+  },
+  {
+    "name": "Mulled Wine",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/kDs5M2eB5kBElY4PrP6b.jpg"
+  },
+  {
+    "name": "Mustang Scarves",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ffi5MwxAxRPmDOMM8ZAc.jpg"
+  },
+  {
+    "name": "Espresso (Singl...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/8O8FSlbyeyHBYFYPV2Jb.jpg"
+  },
+  {
+    "name": "Americano",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/NiG8ybJkdLCPa4EtLcmk.jpg"
+  },
+  {
+    "name": "Café Latte",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/MGXI8F8joFOYPEJFd7wg.jpg"
+  },
+  {
+    "name": "Cappuccino",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/mCmvjTUUd2CbkMPc6iXc.jpg"
+  },
+  {
+    "name": "Hot Chocolate",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/rYpJjUCgjI87sTd0OdoP.jpg"
+  },
+  {
+    "name": "Chai Latte",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/KmJe0tW0Am1SIqc0pk7g.jpg"
+  },
+  {
+    "name": "Mocha",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/w8XSSww8lqzTgso56UYr.jpg"
+  },
+  {
+    "name": "Baby Chaino",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/g9eeKiI2jTR2Cbt4cA86.jpg"
+  },
+  {
+    "name": "Kids Hot Chocol...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/6eOtCycJ1i51a85E1WvG.jpg"
+  },
+  {
+    "name": "Iced Espresso (...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/oiKsyALprX9tCORoFjkA.jpg"
+  },
+  {
+    "name": "Iced Café Latte",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Amnqa3Xlvs08bB7wRSkx.jpg"
+  },
+  {
+    "name": "Iced Chai Latte",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/HwnJ191bs4Y8xd8Rbdss.jpg"
+  },
+  {
+    "name": "Iced Mocha",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/vCnq8KLkvmBgFWPX8zJx.jpg"
+  },
+  {
+    "name": "Iced Cappuccino",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/rs9w3OfO1vCbyVI5bzo6.jpg"
+  },
+  {
+    "name": "Iced Hot Chocol...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/L6gyZUBykpoKrLkQbaVB.jpg"
+  },
+  {
+    "name": "Masala Spicy Te...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/FRZfxLMPqvLqhvNxxYgo.jpg"
+  },
+  {
+    "name": "Black Tea",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/KzyyGTxa7eMqeynHN9iD.jpg"
+  },
+  {
+    "name": "Green Tea",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/zcGj03nfluYY0DUOEoSN.jpg"
+  },
+  {
+    "name": "Fresh Lemon Tea",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Wem6rQbQ9PNUiFzz2GAK.jpg"
+  },
+  {
+    "name": "Masala Chai",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Cm76RpYfORpjQIkbtHPF.jpg"
+  },
+  {
+    "name": "Iced Tea",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Gv92bi0yJUKEcVH6h08i.jpg"
+  },
+  {
+    "name": "Coffee Frappe",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/tQlXb2OnrzhUbeqw12as.jpg"
+  },
+  {
+    "name": "Exotic add-on",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/DhSdtyYTl0CXKiJY2fzI.jpg"
+  },
+  {
+    "name": "Mocha Frappe",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Dl9Usoxy0VD7eaMCvIlU.jpg"
+  },
+  {
+    "name": "Oreo Frappe",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/6O00o3zDByWXOrYmcZ5g.jpg"
+  },
+  {
+    "name": "Strawberry Frap...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/hkVuOhsbnckJFMjBDvVS.jpg"
+  },
+  {
+    "name": "Caramel Frappe",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/X0iu1bbQQ3VtVywKJyRe.jpg"
+  },
+  {
+    "name": "Double Flavored...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/FUtHyxenDOCzaDRVndFr.jpg"
+  },
+  {
+    "name": "Choco Mint Frap...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/OO9fZWTFE5Pnk3ywPb3m.jpg"
+  },
+  {
+    "name": "Oreo Choco Frap...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/9T5Ay9As8dbdxaXKkeby.jpg"
+  },
+  {
+    "name": "Mango Lassi",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/b7JGarmuA9AQWEaE6GvW.jpg"
+  },
+  {
+    "name": "Banana Lassi",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/MTXSaAtgziPsIjJQxjR7.jpg"
+  },
+  {
+    "name": "Vanilla Lassi",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/7qwUvcNOSJ5qL7QJSFa8.jpg"
+  },
+  {
+    "name": "Sweet Lassi",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/IT7uib0bVpNaZBnQyrsX.jpg"
+  },
+  {
+    "name": "Plain Lassi",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/brICgJ9wQzwjvenWfQII.jpg"
+  },
+  {
+    "name": "Strawberry Lass...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/gppUFmHG1BRF6rAjydlM.jpg"
+  },
+  {
+    "name": "Soda (Pepsi, 7...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/pT5bDaQaL5gkG9ksm6sC.jpg"
+  },
+  {
+    "name": "Diet Pepsi",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/9bbASXDZ2RUgV8mOVlYx.jpg"
+  },
+  {
+    "name": "Tonic Water",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Jro3bDhtJ0BXciNcvyhJ.jpg"
+  },
+  {
+    "name": "Bottle Water",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/Xwxx8UzT61N8ByXYVXTo.jpg"
+  },
+  {
+    "name": "Juices",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/gFUxQBTE3WUgofWLiKlT.jpg"
+  },
+  {
+    "name": "Marpha Apple Ju...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/SVvYUyuIF8mOBOM9a0Jj.jpg"
+  },
+  {
+    "name": "Fresh Juice (Gl...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/hhvUKIriFKwmQLhkhzkt.jpg"
+  },
+  {
+    "name": "Virgin Mojito",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/QDa0FDV5xPom8lNAYgEK.jpg"
+  },
+  {
+    "name": "Banana Berry Co...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/sGopXEKOsw7GKCnvrkv3.jpg"
+  },
+  {
+    "name": "Virgin Pina Col...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/w7DoNZXvZtLwuZTgH749.jpg"
+  },
+  {
+    "name": "Mango Dream",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/mAju5Z0PCgGZBlnluoI4.jpg"
+  },
+  {
+    "name": "Virgin Strawber...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/2ICbEn1TKQ2cVT5wj0mz.jpg"
+  },
+  {
+    "name": "Iced Espresso (...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/kpqxJqaJBbvasKNPVI2K.jpg"
+  },
+  {
+    "name": "Espresso (Doubl...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/iJDIdJPNnEaSjMw6ulwK.jpg"
+  },
+  {
+    "name": "Iced Americano",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/6S02HX7z2BqgYDmiV4pf.jpg"
+  },
+  {
+    "name": "Blue-Blossoms",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/tC5rOVRMWNFj3eZoL3LY.png"
+  },
+  {
+    "name": "Mango Mule",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/iT7u4YdYslLjXVNCViJt.png"
+  },
+  {
+    "name": "Tropical Fruit-...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/x9DO4MNn2CoJAGmCynzv.png"
+  },
+  {
+    "name": "Berry Smoothie",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/fQFOhqExC7B81bYIqPDM.png"
+  },
+  {
+    "name": "ChocoBanana Smo...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Ja4Ny1GU5yxbeP04gJV8.png"
+  },
+  {
+    "name": "Peach Ice Tea",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/ePHGWztrIqFJri2jsI6D.jpg"
+  },
+  {
+    "name": "Tukche Brandy 3...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/BaSt4MebW1HHgIH8288M.jpg"
+  },
+  {
+    "name": "Tukche Brandy 6...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/3DkYYtAc1NRR2wqYvJHb.jpg"
+  },
+  {
+    "name": "Marpha apple ju...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2024/Z6uMtUFCcNiun6n32YRQ.jpg"
+  },
+  {
+    "name": "Jacobs Creek",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/ZuElrAgmhs54xL0azRGw.jpg"
+  },
+  {
+    "name": "House Wine (Per...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/MgxLcB1nhPzXc2tvE2wg.jpg"
+  },
+  {
+    "name": "House Wine (Bot...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/0kjj3fJTS4bws66xHSpA.jpg"
+  },
+  {
+    "name": "Carlsberg Bottl...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/7lHtl5aciYGstd3C16hA.jpg"
+  },
+  {
+    "name": "Tuborg",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/g985PhtnpCr1orNqDfCb.jpg"
+  },
+  {
+    "name": "Gorkha (Bottle)",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/K00bnYSYHq8fRpkpHlXE.jpg"
+  },
+  {
+    "name": "Arna Light",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/JrJGImR1ezpEno4gwupR.jpg"
+  },
+  {
+    "name": "Warsteiner",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/RTUhIKzdqHmLreZDtrKF.jpg"
+  },
+  {
+    "name": "Corona",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/HvcBQaGetEXJdwoUPwnZ.jpg"
+  },
+  {
+    "name": "Belgium Beer (S...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/7gRq0pvvvEVIpH2RDs3x.jpg"
+  },
+  {
+    "name": "Somersby Apple...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/January2021/bfClNVXru6V5ujyjLqoh.jpg"
+  },
+  {
+    "name": "Gorkha Craft (B...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/4gpFur0sVTHeib6Vp1cb.jpg"
+  },
+  {
+    "name": "Sherpa Khumbu G...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/y3SnhNXBmsD2Ql54CiIp.jpg"
+  },
+  {
+    "name": "Sherpa Khumbu G...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/Q68K2TeQ1MQlzZOw06Wf.jpg"
+  },
+  {
+    "name": "Sherpa Himalaya...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/4ZtiqygiT1uOve5tARzn.jpg"
+  },
+  {
+    "name": "Sherpa Himalaya...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/1Zp2twSlLvJCl4BByl4j.jpg"
+  },
+  {
+    "name": "Barahsinghe Pil...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/40hEJiNzbh7EGYigSZxw.jpg"
+  },
+  {
+    "name": "Barahsinghe Pil...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/xxsBZJRR8ZTXZ1vTUMit.jpg"
+  },
+  {
+    "name": "Budwiser",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/NNiZGMwNB83xgyiXU3me.jpg"
+  },
+  {
+    "name": "Sherpa Nepal IP...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/uvikIeV9GudyHkj6Kbzk.jpg"
+  },
+  {
+    "name": "Sherpa Nepal IP...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/April2023/TliQhJVSLzB5RtBq0xsH.jpg"
+  },
+  {
+    "name": "CHIMICHANGA CHE...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/July2023/fw7ixXuuFwgflCq3TngW.jpg"
+  },
+  {
+    "name": "APPLE COBBLER",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/July2023/Oi5kVtU1Wa1zAiBmClXD.jpg"
+  },
+  {
+    "name": "CHUROS",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/July2023/GAgMMJ4ZbtJCKy4OnuDX.jpg"
+  },
+  {
+    "name": "White Chocolate...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/July2023/lRQB8AY2G8BOc5ZjStsc.jpg"
+  },
+  {
+    "name": "Flourless Almon...",
+    "price": "",
+    "imageUrl": "https://jimbuthakali.com/storage/foods/July2023/LkuG8g8UFQfE7Kp4gMhm.jpg"
+  }
+]

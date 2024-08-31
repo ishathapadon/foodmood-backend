@@ -1,0 +1,366 @@
+[
+  {
+    "restaurant_name": "Pizza Hut",
+    "dishes": {
+      "Pizza": {
+        "Veg Pizza Margherita": {
+          "id": "PH-PZ-001",
+          "price": "$1.08",
+          "rating": "4.2",
+          "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/12/margherita-pizza-4.jpg"
+        },
+        "Veg Pizza Farmhouse": {
+          "id": "PH-PZ-002",
+          "price": "$1.80",
+          "rating": "4.5",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/Farmhouse.jpg"
+        },
+        "Veg Pizza Peppy Paneer": {
+          "id": "PH-PZ-003",
+          "price": "$1.92",
+          "rating": "4.4",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/Peppy_Paneer.jpg"
+        },
+        "Veg Pizza Classic Veggie": {
+          "id": "PH-PZ-004",
+          "price": "$2.16",
+          "rating": "4.3",
+          "image": "https://cdn.loveandlemons.com/wp-content/uploads/2023/02/vegetarian-pizza.jpg"
+        },
+        "Veg Pizza Mediterranean Veggie": {
+          "id": "PH-PZ-005",
+          "price": "$2.40",
+          "rating": "4.6",
+          "image": "https://www.lecremedelacrumb.com/wp-content/uploads/2019/01/mediterranean-veggie-pizza-1.jpg"
+        },
+        "Veg Pizza Veggie Supreme": {
+          "id": "PH-PZ-006",
+          "price": "$2.64",
+          "rating": "4.7",
+          "image": "https://www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-featured-image-3.png"
+        },
+        "Veg Pizza Spicy Veggie": {
+          "id": "PH-PZ-007",
+          "price": "$2.52",
+          "rating": "4.5",
+          "image": "https://lodough.co/cdn/shop/articles/Pizza_-_Spicy_Veg_Pizza_1.jpg?v=1576597664"
+        },
+        "Veg Pizza Veggie Lovers": {
+          "id": "PH-PZ-008",
+          "price": "$2.28",
+          "rating": "4.4",
+          "image": "https://api.pizzahut.io/v1/content/en-ca/ca-1/images/pizza/pizza.veggie-lovers.48ba54d49ff2257671521b477967633a.1.jpg"
+        },
+        "Veg Pizza Cheese Burst Margherita": {
+          "id": "PH-PZ-009",
+          "price": "$3.00",
+          "rating": "4.6",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPaNOteQthYfWS9zQ9bTVDXbVLB6YvBPXtOw&s"
+        },
+        "Veg Pizza Cheese Burst Farmhouse": {
+          "id": "PH-PZ-010",
+          "price": "$3.36",
+          "rating": "4.7",
+          "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/da/61/df/main-order-1-farmhouse.jpg"
+        },
+        "Non-Veg Pizza Chicken Supreme": {
+          "id": "PH-PZ-011",
+          "price": "$10.20",
+          "rating": "4.8",
+          "image": "https://static.toiimg.com/thumb/53339084.cms?imgsize=85489&width=800&height=800"
+        },
+        "Non-Veg Pizza Chicken Tandoori": {
+          "id": "PH-PZ-012",
+          "price": "$10.20",
+          "rating": "4.8",
+          "image": "https://www.teaforturmeric.com/wp-content/uploads/2017/11/tandoori-chicken-pizza-4442.jpg"
+        },
+        "Non-Veg Pizza Chicken Sausage": {
+          "id": "PH-PZ-013",
+          "price": "$10.80",
+          "rating": "4.9",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/Chicken_Sausage.jpg"
+        },
+        "Non-Veg Pizza Pepperoni": {
+          "id": "PH-PZ-014",
+          "price": "$10.44",
+          "rating": "4.7",
+          "image": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(20).png"
+        },
+        "Non-Veg Pizza BBQ Chicken": {
+          "id": "PH-PZ-015",
+          "price": "$10.56",
+          "rating": "4.8",
+          "image": "https://www.allrecipes.com/thmb/qZ7LKGV1_RYDCgYGSgfMn40nmks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-beauty-4x3-39cd80585ad04941914dca4bd82eae3d.jpg"
+        },
+        "Non-Veg Pizza Meat Lovers": {
+          "id": "PH-PZ-016",
+          "price": "$11.04",
+          "rating": "4.9",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPQeDLoeL3E9_FkYjEjjSXXAUwg2gsBnJ0sg&s"
+        },
+        "Non-Veg Pizza Spicy Chicken": {
+          "id": "PH-PZ-017",
+          "price": "$10.68",
+          "rating": "4.8",
+          "image": "https://static.toiimg.com/thumb/62846529.cms?imgsize=456316&width=800&height=800"
+        },
+        "Non-Veg Pizza Chicken Fiesta": {
+          "id": "PH-PZ-018",
+          "price": "$10.20",
+          "rating": "4.7",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/chunky-chicken.jpg"
+        },
+        "Non-Veg Pizza Chicken & Bacon": {
+          "id": "PH-PZ-019",
+          "price": "$11.16",
+          "rating": "4.8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehEN3WbKGIfU_O9STmyME3theMxsg_DBf9w&s"
+        },
+        "Non-Veg Pizza Deluxe Chicken": {
+          "id": "PH-PZ-020",
+          "price": "$10.68",
+          "rating": "4.7",
+          "image": "https://5.imimg.com/data5/GW/XW/GLADMIN-15099386/chicken-deluxe-pizza-500x500.png"
+        }
+      }
+    }
+  },
+  {
+    "restaurant_name": "Domino's",
+    "dishes": {
+      "Pizza": {
+        "Veg Pizza Margherita": {
+          "id": "DM-PZ-001",
+          "price": "$1.20",
+          "rating": "4.3",
+          "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/12/margherita-pizza-4.jpg"
+        },
+        "Veg Pizza Veg Extravaganza": {
+          "id": "DM-PZ-002",
+          "price": "$2.04",
+          "rating": "4.6",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/Veg_Extravaganz.jpg"
+        },
+        "Veg Pizza Supreme": {
+          "id": "DM-PZ-003",
+          "price": "$2.16",
+          "rating": "4.5",
+          "image": "https://www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-featured-image-3.png"
+        },
+        "Veg Pizza Farmhouse": {
+          "id": "DM-PZ-004",
+          "price": "$1.92",
+          "rating": "4.4",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/Farmhouse.jpg"
+        },
+        "Veg Pizza Spinach & Cheese": {
+          "id": "DM-PZ-005",
+          "price": "$2.28",
+          "rating": "4.5",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2u3uvby6saVtPdgxIOCegNnxRxvLcDyL8EQ&s"
+        },
+        "Veg Pizza Onion & Capsicum": {
+          "id": "DM-PZ-006",
+          "price": "$2.40",
+          "rating": "4.6",
+          "image": "https://static.toiimg.com/thumb/59632728.cms?width=1200&height=900"
+        },
+        "Veg Pizza Cheese & Tomato": {
+          "id": "DM-PZ-007",
+          "price": "$1.80",
+          "rating": "4.4",
+          "image": "https://i.ytimg.com/vi/H86VIObTaQU/maxresdefault.jpg"
+        },
+        "Veg Pizza Mexican Green Wave": {
+          "id": "DM-PZ-008",
+          "price": "$2.52",
+          "rating": "4.6",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/Mexican_Green_Wave.jpg"
+        },
+        "Veg Pizza Cheese Burst Margherita": {
+          "id": "DM-PZ-009",
+          "price": "$3.12",
+          "rating": "4.7",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/Double_Cheese_Margherita.jpg"
+        },
+        "Veg Pizza Cheese Burst Veggie Paradise": {
+          "id": "DM-PZ-010",
+          "price": "$3.48",
+          "rating": "4.8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1aPL-bN0nO-0mujS00jk0FTmlm0KpwTL9g&s"
+        },
+        "Non-Veg Pizza Pepperoni": {
+          "id": "DM-PZ-011",
+          "price": "$10.56",
+          "rating": "4.8",
+          "image": "https://www.dominos.co.in//files/items/MicrosoftTeams-image_(20).png"
+        },
+        "Non-Veg Pizza Chicken Sausage": {
+          "id": "DM-PZ-012",
+          "price": "$10.80",
+          "rating": "4.9",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/Chicken_Sausage.jpg"
+        },
+        "Non-Veg Pizza BBQ Chicken": {
+          "id": "DM-PZ-013",
+          "price": "$10.68",
+          "rating": "4.7",
+          "image": "https://www.allrecipes.com/thmb/qZ7LKGV1_RYDCgYGSgfMn40nmks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-beauty-4x3-39cd80585ad04941914dca4bd82eae3d.jpg"
+        },
+        "Non-Veg Pizza Chicken Dominator": {
+          "id": "DM-PZ-014",
+          "price": "$11.40",
+          "rating": "4.9",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjTCCdUztp_PS3AKyQJQjp_nFwXToqCUL0jA&s"
+        },
+        "Non-Veg Pizza Meat Supreme": {
+          "id": "DM-PZ-015",
+          "price": "$11.28",
+          "rating": "4.8",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/Non-Veg_Supreme.jpg"
+        },
+        "Non-Veg Pizza Spicy Chicken": {
+          "id": "DM-PZ-016",
+          "price": "$10.56",
+          "rating": "4.7",
+          "image": "https://static.toiimg.com/thumb/62846529.cms?imgsize=456316&width=800&height=800"
+        },
+        "Non-Veg Pizza Chicken Fiesta": {
+          "id": "DM-PZ-017",
+          "price": "$10.80",
+          "rating": "4.8",
+          "image": "https://chefchoice.com.np/wp-content/uploads/2020/07/chunky-chicken.jpg"
+        },
+        "Non-Veg Pizza Chicken & Bacon": {
+          "id": "DM-PZ-018",
+          "price": "$11.16",
+          "rating": "4.8",
+          "image": "https://suebeehomemaker.com/wp-content/uploads/2021/08/bbq-chicken-bacon-pizza-6.jpg"
+        },
+        "Non-Veg Pizza Deluxe Chicken": {
+          "id": "DM-PZ-019",
+          "price": "$10.68",
+          "rating": "4.7",
+          "image": "https://5.imimg.com/data5/GW/XW/GLADMIN-15099386/chicken-deluxe-pizza-500x500.png"
+        },
+        "Non-Veg Pizza Chicken & Mushroom": {
+          "id": "DM-PZ-020",
+          "price": "$10.92",
+          "rating": "4.8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJXrgmkPDq9CRjNajF2W1wUQWiPs6Zd8OuQ&s"
+        }
+      }
+    }
+  },
+  {
+    "restaurant_name": "Burger King",
+    "dishes": {
+      "Burger": {
+        "Veg Whopper": {
+          "id": "BK-BG-001",
+          "price": "$2.50",
+          "rating": "4.3",
+          "image": "https://i.ytimg.com/vi/4_iyBw6dKYk/maxresdefault.jpg"
+        },
+        "Paneer Royale": {
+          "id": "BK-BG-002",
+          "price": "$2.80",
+          "rating": "4.5",
+          "image": "https://images.firstwefeast.com/complex/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,g_face,q_auto,w_1280/tvsvrurswwa1idsnuskr.png"
+        },
+        "Crispy Veg": {
+          "id": "BK-BG-003",
+          "price": "$2.30",
+          "rating": "4.2",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6DqIy-HKfXLxQyYYEzKJmiYnde1r5EeUv5Q&s"
+        },
+        "Chicken Whopper": {
+          "id": "BK-BG-004",
+          "price": "$3.20",
+          "rating": "4.6",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0nC6pNPC2BeGRB-te8HENx5TE3sIsieyo0g&s"
+        },
+        "Fiery Chicken": {
+          "id": "BK-BG-005",
+          "price": "$3.50",
+          "rating": "4.7",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIbegC2wzKVOeKgtefRjzQC2aWViKaYX7F4g&s"
+        },
+        "Chicken Royale": {
+          "id": "BK-BG-006",
+          "price": "$3.40",
+          "rating": "4.6",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtWbcnMFK5uT19BDSr-cNMPT0dyg2X4rWEGA&s"
+        },
+        "Chicken Tandoor Grill": {
+          "id": "BK-BG-007",
+          "price": "$3.70",
+          "rating": "4.8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShsl-HkRAN7lQSP11uLdmd-znGkBzav70Jzg&s"
+        },
+        "Bacon King": {
+          "id": "BK-BG-008",
+          "price": "$4.00",
+          "rating": "4.9",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggSmYYCtH2_S4VM58DfKsWFJ700gtNY2fqw&s"
+        }
+      }
+    }
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "dishes": {
+      "Burger": {
+        "McVeggie": {
+          "id": "MD-BG-001",
+          "price": "$2.00",
+          "rating": "4.3",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGVdESEP06rJLN1PA-DWyMSt3hy9oDq7EBCg&s"
+        },
+        "McSpicy Paneer": {
+          "id": "MD-BG-002",
+          "price": "$2.70",
+          "rating": "4.5",
+          "image": "https://5.imimg.com/data5/OR/KH/MY-33353830/mcspicy-paneer-burger-500x500.png"
+        },
+        "McAloo Tikki": {
+          "id": "MD-BG-003",
+          "price": "$1.50",
+          "rating": "4.2",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0H8t9Llqi6hZ_S_spFfXbqyGvwttu01aPIA&s"
+        },
+        "McChicken": {
+          "id": "MD-BG-004",
+          "price": "$2.80",
+          "rating": "4.6",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZDltr3dqM0tQYYmzsE8RoRjePVFS4S-_-g&s"
+        },
+        "McSpicy Chicken": {
+          "id": "MD-BG-005",
+          "price": "$3.00",
+          "rating": "4.7",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJ3dH-cOZaJMsi6Fnr7DaY2LeZ0wVkmmckw&s"
+        },
+        "McDouble": {
+          "id": "MD-BG-006",
+          "price": "$3.50",
+          "rating": "4.8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxoeFlmsHcCYpq1tu7I-6wjl8ZCXBWuFbhqw&s"
+        },
+        "Big Mac": {
+          "id": "MD-BG-007",
+          "price": "$4.00",
+          "rating": "4.9",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGIZiha5EJVUYbru1bLYRsnZ7kCiKQOVkYog&s"
+        },
+        "Quarter Pounder with Cheese": {
+          "id": "MD-BG-008",
+          "price": "$4.20",
+          "rating": "4.9",
+          "image": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202201_0007-005_QuarterPounderwithCheese_1564x1564:product-header-mobile?wid=1313&hei=1313&dpr=off"
+        }
+      }
+    }
+  }
+]
